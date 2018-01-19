@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Get a current weather from a slack bot",
   "main": "index.js",
+  "repository": "https://github.com/pkoretic/slack-weather-bot",
   "dependencies": {
     "botkit": "^0.6.8",
     "request": "^2.83.0"
