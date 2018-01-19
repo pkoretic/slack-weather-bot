@@ -1,0 +1,17 @@
+{
+  "name": "slack-weather-bot",
+  "version": "1.0.0",
+  "description": "Get a current weather from a slack bot",
+  "main": "index.js",
+  "dependencies": {
+    "botkit": "^0.6.8",
+    "request": "^2.83.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
